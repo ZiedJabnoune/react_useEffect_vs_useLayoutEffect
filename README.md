@@ -1,2 +1,0 @@
-# react_useEffect_vs_useLayoutEffect
-Created with CodeSandbox
